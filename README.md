@@ -2,13 +2,13 @@
 
 #### Objetivo
 
-#- Realizar un análisis descriptivo de las variables de un dataframe
+- Realizar un análisis descriptivo de las variables de un dataframe
 
 #### Requisitos
 
-#1. R, RStudio
-#2. Haber realizado el prework y seguir el curso de los ejemplos de la sesión
-#3. Curiosidad por investigar nuevos tópicos y funciones de R
+1. R, RStudio
+2. Haber realizado el prework y seguir el curso de los ejemplos de la sesión
+3. Curiosidad por investigar nuevos tópicos y funciones de R
 
 #### Desarrollo
 
